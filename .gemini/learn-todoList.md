@@ -10,7 +10,7 @@ C#이나 Python과 달리 C++은 직접 컴파일러를 다루는 과정이 필�
 - [x] **C++ 컴파일러 설치 (g++)**
   - Ubuntu/Debian: `sudo apt update && sudo apt install build-essential`
   - 이 명령어로 g++, gdb, make 등 개발에 필요한 기본 도구들이 설치됩니다.
-- [ ] **"Hello, World!" 작성 및 컴파일**
+- [x] **"Hello, World!" 작성 및 컴파일**
   - 간단한 C++ 코드를 작성하고, 터미널에서 직접 컴파일하고 실행해봅니다.
   - `g++ hello.cpp -o hello && ./hello`
   - **검색 키워드**: `c++ hello world`, `g++ compile command`
