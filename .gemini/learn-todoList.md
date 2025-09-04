@@ -14,7 +14,7 @@ C#이나 Python과 달리 C++은 직접 컴파일러를 다루는 과정이 필�
   - 간단한 C++ 코드를 작성하고, 터미널에서 직접 컴파일하고 실행해봅니다.
   - `g++ hello.cpp -o hello && ./hello`
   - **검색 키워드**: `c++ hello world`, `g++ compile command`
-- [ ] **기본 입출력 (iostream)**
+- [x] **기본 입출력 (iostream)**
   - `std::cout` (출력)과 `std::cin` (입력) 사용법을 익힙니다.
   - **검색 키워드**: `c++ iostream`, `std::cout`, `std::cin`
 
